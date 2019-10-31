@@ -1,0 +1,2 @@
+# Luxury-news
+GitHub Pages
